@@ -1,3 +1,6 @@
+#INSTALL 
+npm install github:alexeytitov94/vue-swipeable-bottom-sheet
+
 # Vue Swipeable Bottom Sheet
 
 ![NPM](https://nodei.co/npm/vue-swipeable-bottom-sheet.png)
