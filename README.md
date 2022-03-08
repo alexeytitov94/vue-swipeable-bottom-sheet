@@ -3,28 +3,9 @@ npm install github:alexeytitov94/vue-swipeable-bottom-sheet
 
 # Vue Swipeable Bottom Sheet
 
-![NPM](https://nodei.co/npm/vue-swipeable-bottom-sheet.png)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://github.com/atsutopia/vue-swipeable-bottom-sheet)
-
 A swipeable material's bottom sheet implementation, that uses [hammerjs](https://github.com/hammerjs/hammer.js).
 
 ![vue-swipeable-bottom-sheet.gif](vue-swipeable-bottom-sheet.gif)
-
-## Installation
-
-#### NPM
-
-```
-npm install --save vue-swipeable-bottom-sheet
-```
-
-or
-
-#### Yarn
-
-```
-yarn add vue-swipeable-bottom-sheet
-```
 
 ## Usage
 
